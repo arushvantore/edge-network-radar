@@ -1,0 +1,9 @@
+# Raw diagnostic trace files
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# OS artifacts
+.DS_Store
